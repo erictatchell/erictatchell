@@ -4,6 +4,9 @@ My name is Eric Tatchell, I am a software developer/designer in Vancouver, BC
 
 ![Eric Tatchell's Overall Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=erictatchell&theme=dark)
 
+- Currently in 2nd year Computer Systems Technology (CST) at BCIT
+- Visit my ![website](https://erictatchell.com)!
+
 ### Favourite Projects
 [![Project 1](https://github.com/erictatchell/portfolio-website/blob/master/public/img/ww-splash.jpg)](https://github.com/erictatchell/winewhisperer)
 [![Project 2](https://github.com/erictatchell/portfolio-website/blob/master/public/img/dui-splash.jpg)](https://github.com/erictatchell/duinfinite)
