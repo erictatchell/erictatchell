@@ -1,4 +1,4 @@
-# Hi there 👋🏽
+# Hi there!
 
 My name is Eric Tatchell, I am a software developer/designer in Vancouver, BC
 
