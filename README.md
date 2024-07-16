@@ -1,4 +1,5 @@
 ### Favourite Projects
+[![Project 4](https://github.com/erictatchell/portfolio-website/blob/master/public/img/apothicon-splash.png)](https://github.com/erictatchell/apothicon)
 [![Project 1](https://github.com/erictatchell/portfolio-website/blob/master/public/img/ww-splash.jpg)](https://github.com/erictatchell/winewhisperer)
 [![Project 2](https://github.com/erictatchell/portfolio-website/blob/master/public/img/dui-splash.jpg)](https://github.com/erictatchell/duinfinite)
 [![Project 3](https://github.com/erictatchell/portfolio-website/blob/master/public/img/wc-splash.jpg)](https://github.com/erictatchell/wavecraft)
