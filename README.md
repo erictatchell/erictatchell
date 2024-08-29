@@ -1,4 +1,8 @@
 # ☕
-Hi, I'm Eric
+Hi, my name is Eric
+
 My favourite languages are Java, C++ and TS
-I'm learning how to build web apps with Go
+
+I'm learning Go
+
+Neovim btw
