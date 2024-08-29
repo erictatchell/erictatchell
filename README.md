@@ -1,9 +1,11 @@
-# Hi, my name is Eric ☕
+# My name is Eric ☕
 
 ### I'm a developer/designer with a special curiosity in networking and database
 
 ## Favourite Projects
-
+[![Project 3](https://github.com/erictatchell/portfolio-website/blob/master/public/img/splash.png)](https://github.com/erictatchell/apothicon)
+[![Project 1](https://github.com/erictatchell/portfolio-website/blob/master/public/img/ww-splash.jpg)](https://github.com/erictatchell/winewhisperer)
+[![Project 2](https://github.com/erictatchell/portfolio-website/blob/master/public/img/wc-splash.jpg)](https://github.com/erictatchell/wavecraft)
 
 ## Favourite Languages
 - Java
