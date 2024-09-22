@@ -7,7 +7,7 @@
 
 ## Favourite Languages
 - Java
-- C++
+- Go
 - JS/TS
 
 ## Learning
